@@ -2,7 +2,7 @@ import tkinter as tk
 
 window = tk.Tk()
 
-window.title("Simple Tkinter Window")
+window.title("Calculator")
 
 window.geometry("400x200")
 
